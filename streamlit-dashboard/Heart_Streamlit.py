@@ -68,7 +68,7 @@ def heart():
     if st.sidebar.button('Predict!'):
         df = input_df
         st.write(df)
-        with open("streamlit-dashboard/generate_heart_disease.pkl", 'rb') as file:
+        with open("generate_heart_disease.pkl", 'rb') as file:
             loaded_model = pickle.load(file)
         prediction = loaded_model.predict(df)
         result = ['Did Not Have Heart Disease' if prediction == 0 else 'Have Heart Disease']
