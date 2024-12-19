@@ -63,7 +63,7 @@ def heart():
             return features
         
     input_df = user_input_features()
-    img = Image.open("heart-disease.jpg")
+    img = Image.open("heart_disease_prediction/heart-disease.jpg")
     st.image(img, width=500)
     if st.sidebar.button('Predict!'):
         df = input_df
