@@ -63,12 +63,12 @@ def heart():
             return features
         
     input_df = user_input_features()
-    img = Image.open("heart_disease_prediction/heart-disease.jpg")
+    img = Image.open("streamlit-dashboard/heart-disease.jpg")
     st.image(img, width=500)
     if st.sidebar.button('Predict!'):
         df = input_df
         st.write(df)
-        with open("machine_learning_project/heart_disease_prediction/generate_heart_disease.pkl", 'rb') as file:
+        with open("streamlit-dashboard/generate_heart_disease.pkl", 'rb') as file:
             loaded_model = pickle.load(file)
         prediction = loaded_model.predict(df)
         result = ['Did Not Have Heart Disease' if prediction == 0 else 'Have Heart Disease']
