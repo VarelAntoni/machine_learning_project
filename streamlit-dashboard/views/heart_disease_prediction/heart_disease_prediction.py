@@ -3,6 +3,7 @@ import pandas as pd
 import pickle
 import time
 from PIL import Image
+import os
 
 col1_heart, col2_heart, col3_heart = st.columns([0.25,2.5,0.25], gap="small", vertical_alignment="center")
 
@@ -18,7 +19,12 @@ with col2_heart:
         Data obtained from the [Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) by UCIML.
         """)
 
-        img = Image.open("./heart-disease.jpg")
+        # Dynamically construct the path to the image
+        current_dir = os.path.dirname(os.path.abspath(__file__))  # Directory of the current script
+        img_path = os.path.join(current_dir, "heart-disease.jpg")
+
+        # Open the image
+        img = Image.open(img_path)
         st.image(img, width=500)
 
         st.write('### User Input Features:')
