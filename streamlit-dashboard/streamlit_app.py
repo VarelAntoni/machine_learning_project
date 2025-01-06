@@ -24,5 +24,8 @@ pg = st.navigation(
 )
 
 st.sidebar.markdown("This dashboard created by : [Varel](https://www.linkedin.com/in/muhammadvarelantoni)")
+st.sidebar.markdown("linkedin : [Muhammad Varel Antoni](www.linkedin.com/in/muhammadvarelantoni)")
+st.sidebar.markdown("GitHub : [VarelAntoni](https://github.com/VarelAntoni)")
+
 
 pg.run()
