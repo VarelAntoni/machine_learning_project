@@ -18,7 +18,7 @@ with col2_heart:
         Data obtained from the [Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) by UCIML.
         """)
 
-        img = Image.open("views/heart_disease_prediction/heart-disease.jpg")
+        img = Image.open("./heart-disease.jpg")
         st.image(img, width=500)
 
         st.write('### User Input Features:')
@@ -69,7 +69,7 @@ with col2_heart:
         if st.button('Predict!'):
             df = input_df
             st.write(df)
-            with open("views/heart_disease_prediction/generate_heart_disease.pkl", 'rb') as file:
+            with open("./generate_heart_disease.pkl", 'rb') as file:
                 loaded_model = pickle.load(file)
             prediction = loaded_model.predict(df)
             result = ['Did Not Have Heart Disease' if prediction == 0 else 'Have Heart Disease']
