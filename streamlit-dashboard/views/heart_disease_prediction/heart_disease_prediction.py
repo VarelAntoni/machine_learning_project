@@ -3,7 +3,6 @@ import pandas as pd
 import pickle
 import time
 from PIL import Image
-git add
 
 col1_heart, col2_heart, col3_heart = st.columns([0.25,2.5,0.25], gap="small", vertical_alignment="center")
 
