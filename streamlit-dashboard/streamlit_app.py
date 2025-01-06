@@ -23,6 +23,6 @@ pg = st.navigation(
     }
 )
 
-st.sidebar.markdown("This dashboard created by : [Varel](www.linkedin.com/in/muhammadvarelantoni)")
+st.sidebar.markdown("This dashboard created by : [Varel](https://www.linkedin.com/in/muhammadvarelantoni)")
 
 pg.run()
