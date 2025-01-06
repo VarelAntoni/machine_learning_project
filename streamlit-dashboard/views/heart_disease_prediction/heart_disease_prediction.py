@@ -18,7 +18,7 @@ with col2_heart:
         Data obtained from the [Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) by UCIML.
         """)
 
-        img = Image.open("./heart-disease.jpg")
+        img = Image.open("views/heart_disease_prediction/heart-disease.jpg")
         st.image(img, width=500)
 
         st.write('### User Input Features:')
