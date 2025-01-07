@@ -8,8 +8,6 @@ with col1:
 with col2:
     if os.path.exists("./assets/varel-pic.jpg"):
         st.image("./assets/varel-pic.jpg", width=400)
-    else:
-        st.error("Image file not found.")
 with col3:
     st.title("Muhammad Varel Antoni", anchor="False")
     st.text("A passionate Data and AI enthusiast with a strong interest in machine learning, data analysis, and AI-driven innovation, I am an undergraduate Information Technology student at the University of Brawijaya. I also serve as the Manager of Organizational Development at the Human Resource Society of Renewable Energy UB, where I apply my skills to drive organizational growth and sustainability.")
