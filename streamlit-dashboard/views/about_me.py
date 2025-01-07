@@ -85,7 +85,7 @@ def experience():
         )
 
         st.write("\n")
-        st.markdown("### **📈 Organization Experience**")
+        st.markdown("#### **📈 Organization Experience**")
         st.write(
             """
             - **Society of Renewable Energy** - Brawijaya University (Associates  of Human Resources)
@@ -95,7 +95,7 @@ def experience():
         )
 
         st.write("\n")
-        st.markdown("### **📈 Volunteer Experience**")
+        st.markdown("#### **📈 Volunteer Experience**")
         st.write(
             """
             - **Study With SRE x Lawnergy Talks 2024** - SRE UB 2024 (Project Officer)
