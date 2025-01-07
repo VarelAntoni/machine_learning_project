@@ -118,7 +118,7 @@ def award():
     with col2_awr:
         st.subheader("🏆 Awards and Certifications")
         st.write("\n")
-        st.markdown("#### **Awards**")
+        st.markdown("#### **🏅 Awards**")
         st.write(
             """
             - First Place ICT Business Idea Competition ITCC 2024
@@ -129,7 +129,7 @@ def award():
         )
 
         st.write("\n")
-        st.markdown("#### **Certifications**")
+        st.markdown("#### **📜 Certifications**")
         st.write(
             """
             - Certificate of Achievement - Home Credit Indonesia Data Science Project Based Internship Program
