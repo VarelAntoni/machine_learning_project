@@ -143,6 +143,7 @@ def award():
 
     with col3_awr:
         st.write("\n")
+        
 
 if add_selectitem == "Education":
     education()
