@@ -1,11 +1,15 @@
 import streamlit as st
 import pandas as pd
+import os
 
 col1, col2, col3, col4 = st.columns([0.3,1.7,1.75,0.25], gap="small", vertical_alignment="center")
 with col1:
     st.write("\n")
 with col2:
+    if os.path.exists("./assets/varel-pic.jpg"):
     st.image("./assets/varel-pic.jpg", width=400)
+else:
+    st.error("Image file not found.")
 with col3:
     st.title("Muhammad Varel Antoni", anchor="False")
     st.text("A passionate Data and AI enthusiast with a strong interest in machine learning, data analysis, and AI-driven innovation, I am an undergraduate Information Technology student at the University of Brawijaya. I also serve as the Manager of Organizational Development at the Human Resource Society of Renewable Energy UB, where I apply my skills to drive organizational growth and sustainability.")
