@@ -17,7 +17,7 @@ st.write(
 # reruns (e.g. if the user interacts with the widgets).
 @st.cache_data
 def load_data():
-    df = pd.read_csv("views/movies_dataset/movies_dataset_summary.csv")
+    df = pd.read_csv("streamlit-dashboard/views/movies_dataset/movies_dataset_summary.csv")
     return df
 
 
