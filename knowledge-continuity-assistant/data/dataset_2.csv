@@ -1,0 +1,301 @@
+Job Title,Experience Level,Location,Key Technologies,Job Description
+IoT Solutions Architect,Mid,Bandung,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Quantum Computing Engineer,Mid,Surabaya,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Data Privacy Analyst,Mid,Remote,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+IoT Solutions Architect,Senior,Yogyakarta,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+IoT Solutions Architect,Entry,Bandung,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Quantum Computing Engineer,Entry,Remote,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Smart Contract Developer,Entry,Jakarta,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Site Reliability Engineer,Senior,Bali,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Platform Reliability Engineer,Entry,Surabaya,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Data Privacy Analyst,Entry,Surabaya,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+Robotics Software Engineer,Senior,Yogyakarta,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Embedded Systems Developer,Senior,Surabaya,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+Mobile DevOps Engineer,Entry,Yogyakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Robotics Software Engineer,Mid,Jakarta,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Mobile DevOps Engineer,Senior,Yogyakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Site Reliability Engineer,Senior,Bandung,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Bioinformatics Engineer,Mid,Bali,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+Embedded Systems Developer,Entry,Bali,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+Edge Computing Specialist,Mid,Bandung,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Mobile DevOps Engineer,Entry,Bandung,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+AR/VR Developer,Senior,Yogyakarta,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Edge Computing Specialist,Senior,Bandung,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Site Reliability Engineer,Senior,Bali,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Site Reliability Engineer,Senior,Surabaya,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Bioinformatics Engineer,Entry,Jakarta,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+DevSecOps Engineer,Mid,Remote,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Smart Contract Developer,Entry,Surabaya,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+AI Research Scientist,Senior,Bali,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Data Privacy Analyst,Entry,Surabaya,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+Mobile DevOps Engineer,Mid,Bandung,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Quantum Computing Engineer,Mid,Jakarta,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Quantum Computing Engineer,Mid,Remote,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+IoT Solutions Architect,Mid,Bandung,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Smart Contract Developer,Entry,Jakarta,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Mobile DevOps Engineer,Senior,Yogyakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Quantum Computing Engineer,Entry,Yogyakarta,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+DevSecOps Engineer,Mid,Bali,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Site Reliability Engineer,Senior,Surabaya,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+DevSecOps Engineer,Mid,Bandung,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Quantum Computing Engineer,Entry,Bali,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Smart Contract Developer,Senior,Jakarta,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Mobile DevOps Engineer,Senior,Surabaya,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Platform Reliability Engineer,Mid,Bali,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+AI Research Scientist,Senior,Yogyakarta,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Quantum Computing Engineer,Entry,Remote,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Bioinformatics Engineer,Senior,Bali,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+Cloud Security Engineer,Senior,Surabaya,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+DevSecOps Engineer,Entry,Bali,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Platform Reliability Engineer,Mid,Yogyakarta,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Edge Computing Specialist,Senior,Surabaya,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Cloud Security Engineer,Entry,Bali,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Smart Contract Developer,Entry,Remote,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+AI Research Scientist,Senior,Surabaya,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Site Reliability Engineer,Mid,Yogyakarta,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+AI Research Scientist,Mid,Bali,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+AI Research Scientist,Mid,Bandung,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Site Reliability Engineer,Mid,Bali,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+DevSecOps Engineer,Entry,Remote,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Cloud Security Engineer,Senior,Bali,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Embedded Systems Developer,Senior,Bali,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+IoT Solutions Architect,Mid,Remote,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Site Reliability Engineer,Mid,Bandung,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Bioinformatics Engineer,Entry,Bali,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+Edge Computing Specialist,Mid,Remote,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Cloud Security Engineer,Mid,Bandung,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+IoT Solutions Architect,Senior,Jakarta,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+AR/VR Developer,Mid,Bandung,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Robotics Software Engineer,Senior,Jakarta,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+DevSecOps Engineer,Mid,Remote,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Bioinformatics Engineer,Mid,Bali,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+Robotics Software Engineer,Entry,Remote,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Robotics Software Engineer,Mid,Jakarta,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Platform Reliability Engineer,Senior,Bandung,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+IoT Solutions Architect,Senior,Remote,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Robotics Software Engineer,Entry,Jakarta,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Platform Reliability Engineer,Mid,Yogyakarta,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Mobile DevOps Engineer,Mid,Yogyakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Bioinformatics Engineer,Senior,Bali,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+Embedded Systems Developer,Senior,Bandung,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+AR/VR Developer,Entry,Bandung,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Smart Contract Developer,Senior,Surabaya,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Platform Reliability Engineer,Entry,Remote,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Mobile DevOps Engineer,Entry,Bandung,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+IoT Solutions Architect,Mid,Bandung,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Site Reliability Engineer,Mid,Remote,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Mobile DevOps Engineer,Senior,Remote,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+IoT Solutions Architect,Mid,Yogyakarta,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+DevSecOps Engineer,Mid,Remote,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+DevSecOps Engineer,Mid,Remote,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Robotics Software Engineer,Entry,Bandung,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Robotics Software Engineer,Senior,Bali,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+DevSecOps Engineer,Entry,Surabaya,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+AR/VR Developer,Senior,Remote,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Quantum Computing Engineer,Mid,Bali,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+IoT Solutions Architect,Mid,Yogyakarta,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Bioinformatics Engineer,Mid,Bali,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+AR/VR Developer,Senior,Remote,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+AR/VR Developer,Entry,Jakarta,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+AR/VR Developer,Mid,Bali,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Smart Contract Developer,Senior,Remote,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+AR/VR Developer,Senior,Bali,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+IoT Solutions Architect,Entry,Yogyakarta,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Site Reliability Engineer,Entry,Bandung,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Edge Computing Specialist,Senior,Bali,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Site Reliability Engineer,Entry,Jakarta,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Edge Computing Specialist,Mid,Bali,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Site Reliability Engineer,Senior,Bali,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Robotics Software Engineer,Senior,Bandung,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Edge Computing Specialist,Mid,Yogyakarta,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Mobile DevOps Engineer,Entry,Yogyakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+DevSecOps Engineer,Senior,Bandung,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+IoT Solutions Architect,Mid,Yogyakarta,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+AR/VR Developer,Entry,Bali,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Smart Contract Developer,Senior,Surabaya,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Embedded Systems Developer,Senior,Bali,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+Smart Contract Developer,Mid,Bali,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Mobile DevOps Engineer,Mid,Yogyakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Platform Reliability Engineer,Senior,Surabaya,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Site Reliability Engineer,Entry,Jakarta,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+DevSecOps Engineer,Senior,Bandung,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Embedded Systems Developer,Mid,Bali,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+Robotics Software Engineer,Entry,Surabaya,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Robotics Software Engineer,Entry,Bandung,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Data Privacy Analyst,Mid,Jakarta,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+DevSecOps Engineer,Senior,Bali,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Quantum Computing Engineer,Mid,Bali,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+AR/VR Developer,Entry,Jakarta,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Cloud Security Engineer,Entry,Jakarta,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Embedded Systems Developer,Senior,Jakarta,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+DevSecOps Engineer,Entry,Jakarta,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Data Privacy Analyst,Senior,Surabaya,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+IoT Solutions Architect,Entry,Jakarta,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Robotics Software Engineer,Mid,Bali,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Cloud Security Engineer,Entry,Bali,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Smart Contract Developer,Mid,Bandung,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+AR/VR Developer,Entry,Jakarta,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Smart Contract Developer,Entry,Remote,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+IoT Solutions Architect,Mid,Yogyakarta,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Cloud Security Engineer,Mid,Bali,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Site Reliability Engineer,Senior,Jakarta,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+DevSecOps Engineer,Mid,Bandung,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Quantum Computing Engineer,Entry,Surabaya,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+AR/VR Developer,Senior,Jakarta,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Platform Reliability Engineer,Senior,Remote,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Cloud Security Engineer,Mid,Remote,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Embedded Systems Developer,Senior,Surabaya,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+IoT Solutions Architect,Entry,Bandung,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Quantum Computing Engineer,Senior,Remote,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Quantum Computing Engineer,Senior,Bandung,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Platform Reliability Engineer,Entry,Remote,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Site Reliability Engineer,Entry,Bali,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Robotics Software Engineer,Entry,Bandung,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Robotics Software Engineer,Senior,Surabaya,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Edge Computing Specialist,Senior,Bandung,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+IoT Solutions Architect,Entry,Bali,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Robotics Software Engineer,Mid,Bali,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Cloud Security Engineer,Mid,Surabaya,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Embedded Systems Developer,Entry,Bandung,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+Mobile DevOps Engineer,Senior,Bandung,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Mobile DevOps Engineer,Mid,Bandung,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+AI Research Scientist,Senior,Surabaya,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+AI Research Scientist,Entry,Jakarta,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Mobile DevOps Engineer,Senior,Remote,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Bioinformatics Engineer,Entry,Remote,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+AI Research Scientist,Entry,Remote,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Edge Computing Specialist,Mid,Jakarta,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Data Privacy Analyst,Mid,Jakarta,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+Cloud Security Engineer,Entry,Bandung,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Embedded Systems Developer,Entry,Jakarta,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+IoT Solutions Architect,Mid,Remote,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Robotics Software Engineer,Entry,Yogyakarta,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Site Reliability Engineer,Mid,Yogyakarta,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Mobile DevOps Engineer,Entry,Jakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+DevSecOps Engineer,Entry,Bandung,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Cloud Security Engineer,Senior,Remote,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Robotics Software Engineer,Entry,Bali,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Bioinformatics Engineer,Mid,Remote,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+DevSecOps Engineer,Senior,Remote,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Edge Computing Specialist,Entry,Bandung,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Smart Contract Developer,Senior,Bandung,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+IoT Solutions Architect,Mid,Surabaya,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+IoT Solutions Architect,Mid,Remote,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Quantum Computing Engineer,Mid,Bali,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Platform Reliability Engineer,Senior,Yogyakarta,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Data Privacy Analyst,Entry,Bali,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+Data Privacy Analyst,Senior,Jakarta,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+Data Privacy Analyst,Senior,Remote,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+AI Research Scientist,Entry,Yogyakarta,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Site Reliability Engineer,Senior,Jakarta,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Mobile DevOps Engineer,Senior,Jakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+DevSecOps Engineer,Entry,Surabaya,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Smart Contract Developer,Mid,Yogyakarta,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+DevSecOps Engineer,Mid,Surabaya,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+DevSecOps Engineer,Mid,Bali,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Mobile DevOps Engineer,Senior,Yogyakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Mobile DevOps Engineer,Senior,Yogyakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+AI Research Scientist,Mid,Bandung,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Smart Contract Developer,Mid,Surabaya,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Platform Reliability Engineer,Entry,Bali,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Smart Contract Developer,Mid,Bandung,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Quantum Computing Engineer,Entry,Bali,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+AI Research Scientist,Mid,Surabaya,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+AR/VR Developer,Entry,Surabaya,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Cloud Security Engineer,Mid,Bandung,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Edge Computing Specialist,Entry,Jakarta,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Data Privacy Analyst,Mid,Jakarta,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+Data Privacy Analyst,Senior,Bali,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+IoT Solutions Architect,Senior,Bali,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Mobile DevOps Engineer,Mid,Yogyakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+AI Research Scientist,Mid,Bandung,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Site Reliability Engineer,Senior,Bali,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Mobile DevOps Engineer,Entry,Remote,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+AI Research Scientist,Entry,Remote,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+IoT Solutions Architect,Senior,Surabaya,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Site Reliability Engineer,Senior,Bandung,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Quantum Computing Engineer,Senior,Yogyakarta,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Smart Contract Developer,Mid,Jakarta,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Smart Contract Developer,Entry,Yogyakarta,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Embedded Systems Developer,Senior,Yogyakarta,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+DevSecOps Engineer,Senior,Bandung,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Mobile DevOps Engineer,Entry,Surabaya,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+DevSecOps Engineer,Mid,Bandung,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Cloud Security Engineer,Senior,Bandung,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+AR/VR Developer,Entry,Bandung,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Robotics Software Engineer,Entry,Bandung,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Cloud Security Engineer,Entry,Remote,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Data Privacy Analyst,Senior,Bandung,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+AR/VR Developer,Senior,Remote,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Cloud Security Engineer,Mid,Yogyakarta,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Bioinformatics Engineer,Senior,Surabaya,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+Mobile DevOps Engineer,Mid,Remote,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+IoT Solutions Architect,Entry,Bali,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Embedded Systems Developer,Senior,Yogyakarta,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+Data Privacy Analyst,Mid,Bali,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+Bioinformatics Engineer,Senior,Surabaya,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+AI Research Scientist,Entry,Jakarta,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Data Privacy Analyst,Mid,Jakarta,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+Mobile DevOps Engineer,Entry,Remote,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Robotics Software Engineer,Senior,Bandung,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+Cloud Security Engineer,Senior,Remote,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Data Privacy Analyst,Mid,Yogyakarta,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+Quantum Computing Engineer,Mid,Jakarta,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Edge Computing Specialist,Entry,Remote,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+IoT Solutions Architect,Senior,Bali,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Edge Computing Specialist,Entry,Jakarta,"NVIDIA Jetson, Edge TPU, Real-time Processing",Mengembangkan sistem komputasi di edge untuk mengurangi latensi data.
+Smart Contract Developer,Mid,Surabaya,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+DevSecOps Engineer,Senior,Yogyakarta,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Mobile DevOps Engineer,Senior,Surabaya,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+IoT Solutions Architect,Mid,Remote,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Quantum Computing Engineer,Entry,Yogyakarta,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+AR/VR Developer,Senior,Bali,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Quantum Computing Engineer,Senior,Jakarta,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+AI Research Scientist,Mid,Bandung,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+DevSecOps Engineer,Entry,Jakarta,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Platform Reliability Engineer,Senior,Bali,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+IoT Solutions Architect,Senior,Bandung,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Quantum Computing Engineer,Senior,Surabaya,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Cloud Security Engineer,Mid,Jakarta,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Quantum Computing Engineer,Senior,Jakarta,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Platform Reliability Engineer,Mid,Bali,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+AR/VR Developer,Senior,Yogyakarta,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Bioinformatics Engineer,Senior,Remote,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+DevSecOps Engineer,Entry,Surabaya,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+AI Research Scientist,Entry,Surabaya,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Bioinformatics Engineer,Mid,Bali,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+Smart Contract Developer,Senior,Yogyakarta,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Embedded Systems Developer,Senior,Remote,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+Platform Reliability Engineer,Entry,Bali,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Site Reliability Engineer,Entry,Bali,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Site Reliability Engineer,Entry,Bandung,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Quantum Computing Engineer,Mid,Bandung,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Mobile DevOps Engineer,Mid,Yogyakarta,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+DevSecOps Engineer,Entry,Bandung,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+AI Research Scientist,Entry,Remote,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+DevSecOps Engineer,Senior,Surabaya,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+Quantum Computing Engineer,Entry,Yogyakarta,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Robotics Software Engineer,Entry,Bandung,"ROS, Gazebo, C++, Python, SLAM",Mendesain perangkat lunak untuk robot cerdas dan sistem otonom.
+AR/VR Developer,Senior,Bandung,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Mobile DevOps Engineer,Mid,Remote,"Fastlane, Firebase, Bitrise, Android Studio, Xcode",Mengelola dan mengotomatiskan release pipeline untuk aplikasi mobile.
+Embedded Systems Developer,Entry,Jakarta,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+Site Reliability Engineer,Senior,Remote,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Cloud Security Engineer,Senior,Yogyakarta,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+AI Research Scientist,Mid,Bali,"TensorFlow, PyTorch, NLP, Deep Learning, ML Research",Melakukan riset mendalam dalam bidang AI untuk mengembangkan model dan algoritma baru.
+Cloud Security Engineer,Senior,Yogyakarta,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Platform Reliability Engineer,Senior,Bali,"Datadog, Terraform, PagerDuty, AWS Lambda",Menjamin keandalan platform dengan monitoring dan fault tolerance.
+Bioinformatics Engineer,Entry,Bali,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+IoT Solutions Architect,Entry,Jakarta,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
+Bioinformatics Engineer,Mid,Jakarta,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+Bioinformatics Engineer,Mid,Remote,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+Cloud Security Engineer,Senior,Bali,"AWS, GCP, Azure, Terraform, Kubernetes, IAM",Bertanggung jawab atas keamanan infrastruktur cloud dan otomasi kebijakan keamanan.
+Quantum Computing Engineer,Senior,Yogyakarta,"Qiskit, Cirq, IBM Q, Quantum Algorithms",Mengembangkan algoritma kuantum dan simulasi pada sistem eksperimental.
+Bioinformatics Engineer,Senior,Bali,"Python, R, Bioconductor, Genomic Data, NGS",Menganalisis dan memproses data biologis menggunakan algoritma komputasional.
+Embedded Systems Developer,Senior,Yogyakarta,"C, C++, ARM, STM32, Keil, RTOS",Mengembangkan perangkat lunak low-level untuk embedded hardware.
+DevSecOps Engineer,Mid,Surabaya,"Snyk, GitHub Actions, OWASP, Docker, Jenkins",Mengintegrasikan keamanan ke dalam pipeline DevOps untuk CI/CD yang aman.
+AR/VR Developer,Entry,Remote,"Unity, Unreal Engine, C#, ARKit, WebXR",Membuat pengalaman imersif dengan teknologi AR dan VR untuk berbagai platform.
+Smart Contract Developer,Senior,Surabaya,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Site Reliability Engineer,Entry,Bandung,"Prometheus, Grafana, Kubernetes, Linux, CI/CD",Menjaga ketersediaan dan keandalan sistem produksi berskala besar.
+Smart Contract Developer,Mid,Remote,"Solidity, Ethereum, Truffle, Remix, Web3.js",Membangun kontrak pintar untuk aplikasi blockchain terdesentralisasi.
+Data Privacy Analyst,Senior,Yogyakarta,"GDPR, HIPAA, Data Masking, Compliance Tools",Memastikan data pengguna sesuai regulasi dan kebijakan privasi global.
+IoT Solutions Architect,Entry,Surabaya,"MQTT, Zigbee, AWS IoT, Azure IoT Hub, EdgeX",Merancang dan mengimplementasikan solusi IoT pada perangkat terdistribusi.
