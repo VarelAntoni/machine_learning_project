@@ -8,11 +8,13 @@ from src import utils, vectorstore, chain
 # Load Env
 load_dotenv()
 
-# --- FUNGSI BARU: SIMPAN FEEDBACK KE CSV ---
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "data")
+
+# --- FUNGSI SIMPAN FEEDBACK KE CSV ---
 def save_feedback(prompt, response, rating):
     """
     Menyimpan data pertanyaan, jawaban, dan rating user ke file CSV.
-    Ini mensimulasikan proses pengumpulan data untuk RLHF (Reinforcement Learning from Human Feedback).
     """
     file_name = 'feedback_log.csv'
     file_exists = os.path.isfile(file_name)
@@ -20,11 +22,9 @@ def save_feedback(prompt, response, rating):
     try:
         with open(file_name, mode='a', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
-            # Tulis header jika file baru dibuat
             if not file_exists:
                 writer.writerow(['Timestamp', 'User Prompt', 'Bot Response', 'Rating'])
             
-            # Tulis data baru
             writer.writerow([datetime.now().strftime("%Y-%m-%d %H:%M:%S"), prompt, response, rating])
             
         return True
@@ -42,7 +42,11 @@ def handle_user_input(prompt):
     # 2. Proses jawaban bot
     try:
         db = vectorstore.load_vector_store()
+        
+        # Cari dokumen
         docs = db.similarity_search(prompt, k=10) 
+        
+        # Panggil Chain
         qa_chain = chain.get_qa_chain()
         
         response = qa_chain(
@@ -56,13 +60,15 @@ def handle_user_input(prompt):
             st.markdown(answer)
         st.session_state.messages.append({"role": "assistant", "content": answer})
 
-        # --- UPDATE PENTING: SIMPAN STATE UNTUK FEEDBACK ---
-        # Kita simpan interaksi terakhir agar bisa dinilai oleh user
+        # Simpan interaksi terakhir untuk feedback
         st.session_state.last_interaction = {"prompt": prompt, "response": answer}
         
     except Exception as e:
-        st.error(f"Terjadi Error pada AI: {e}")
-        st.warning("Tips: Pastikan tombol 'Muat Ulang CV' di sidebar sudah diklik.")
+        # Pesan error yang lebih ramah jika Index belum dibuat
+        if "Folder" in str(e) or "Index" in str(e) or "not found" in str(e):
+             st.warning("⚠️ Ingatan AI belum dimuat. Silakan klik tombol **'Muat Ulang / Update CV'** merah di Sidebar.")
+        else:
+             st.error(f"Terjadi Error pada AI: {e}")
 
 def main():
     st.set_page_config("Get to Know Varel", page_icon="📄", layout="wide")
@@ -72,31 +78,37 @@ def main():
     # --- SIDEBAR (ADMIN AREA) ---
     with st.sidebar:
         st.subheader("Panel Admin")
-        st.info("CV dibaca otomatis dari folder 'data/'")
+        st.info(f"Membaca data dari:\n`{DATA_DIR}`")
         
         if st.button("🔄 Muat Ulang / Update CV", type="primary"):
             with st.spinner("Membaca & Mempelajari CV..."):
                 try:
-                    raw_text = utils.load_pdfs_from_folder("data")
-                    if not raw_text:
-                        st.error("Tidak ada file PDF ditemukan di folder 'data'!")
+                    if not os.path.exists(DATA_DIR):
+                        st.error(f"Folder tidak ditemukan di path: {DATA_DIR}")
                     else:
-                        chunks = utils.split_text(raw_text)
-                        vectorstore.create_vector_store(chunks)
-                        st.success("Ingatan AI berhasil diperbarui!")
+                        raw_text = utils.load_pdfs_from_folder(DATA_DIR)
+                        
+                        if not raw_text:
+                            st.error("Tidak ada file PDF ditemukan di folder 'data'!")
+                        else:
+                            chunks = utils.split_text(raw_text)
+                            vectorstore.create_vector_store(chunks)
+                            st.success("Ingatan AI berhasil diperbarui!")
+                            st.rerun() # Refresh halaman agar error hilang
+                            
                 except Exception as e:
                     st.error(f"Terjadi Error: {e}")
 
         st.markdown("---")
         with st.expander("🔍 Intip Isi Teks PDF"):
-             if os.path.exists("data"):
+             if os.path.exists(DATA_DIR):
                  try:
-                    raw_debug = utils.load_pdfs_from_folder("data")
+                    raw_debug = utils.load_pdfs_from_folder(DATA_DIR)
                     st.text(raw_debug[:2000] + "...") 
                  except:
                     st.text("Gagal membaca file.")
              else:
-                 st.write("Folder data belum ada.")
+                 st.error("Folder data belum terdeteksi.")
 
     # --- INIT SESSION STATE ---
     if "messages" not in st.session_state:
@@ -129,8 +141,7 @@ def main():
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    # --- FITUR BARU: FEEDBACK SECTION (MUNCUL SETELAH JAWABAN) ---
-    # Jika ada interaksi terakhir, tampilkan tombol feedback
+    # --- FITUR FEEDBACK (MUNCUL SETELAH JAWABAN) ---
     if st.session_state.last_interaction:
         st.markdown("---")
         st.caption("🤖 Bantu tingkatkan kecerdasan bot ini:")
@@ -142,7 +153,6 @@ def main():
                 last = st.session_state.last_interaction
                 if save_feedback(last['prompt'], last['response'], "Positive"):
                     st.toast("Terima kasih atas feedback positifnya!", icon="✅")
-                    # Reset state agar tombol hilang setelah diklik (opsional)
                     st.session_state.last_interaction = None
                     st.rerun()
 
@@ -157,7 +167,7 @@ def main():
     # --- BAGIAN 3: INPUT USER ---
     if input_manual := st.chat_input("Tanya sesuatu tentang Varel..."):
         handle_user_input(input_manual)
-        st.rerun() # Rerun agar tombol feedback muncul di bawah
+        st.rerun() 
     
     elif button_prompt:
         handle_user_input(button_prompt)
